@@ -8,6 +8,11 @@ public class LapanganVolly {
         panjang=20;
         lebar=11;
     }
+
+    public LapanganVolly(double panjang, double lebar) {
+        this.panjang = panjang;
+        this.lebar = lebar;
+    }
     
     void cetakInfo(){
         System.out.println("==================");
