@@ -7,6 +7,7 @@ public class LapanganVollyAksi {
         L1.lebar = 9;
         
         L1.cetakInfo();
+        System.out.println("Luas Lapngan Volly = "+L1.hitungLuas());
     }
     
 }

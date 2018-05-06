@@ -11,4 +11,10 @@ public class LapanganVolly {
         System.out.println("==================");
     }
     
+    double hitungLuas(){
+        double luas;
+        luas=panjang*lebar;
+        return luas;
+    }
+    
 }
