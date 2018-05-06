@@ -5,6 +5,8 @@ public class LapanganVollyAksi {
         LapanganVolly L1 = new LapanganVolly();
         L1.panjang = 18;
         L1.lebar = 9;
+        
+        L1.cetakInfo();
     }
     
 }
