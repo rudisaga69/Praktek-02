@@ -8,6 +8,7 @@ public class LapanganVollyAksi {
         
         L1.cetakInfo();
         System.out.println("Luas Lapngan Volly = "+L1.hitungLuas());
+        L1.cetakLuas();
     }
     
 }
