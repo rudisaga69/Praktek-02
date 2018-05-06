@@ -3,6 +3,11 @@ package praktek.pkg02;
 public class LapanganVolly {
     double panjang;
     double lebar;
+
+    public LapanganVolly() {
+        panjang=20;
+        lebar=11;
+    }
     
     void cetakInfo(){
         System.out.println("==================");
